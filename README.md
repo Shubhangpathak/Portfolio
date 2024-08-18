@@ -1,6 +1,6 @@
 Portfolio project <br>
 
-This is made using basics i have learned upltil now i'm making it resposive <br><br>
+This is made using basics i have learned up unltil now i'm making it resposive <br><br>
 
 
 This is my first Git repo, and as I'm still a beginner, I don't intend for it to be my main portfolio just yet. For now, it serves its purpose.<br><br>
