@@ -11,5 +11,7 @@ import "../styles/components/mobile-nav.css";
 import "../styles/utils.css"; //must be at last so that it will treat it at last
 
 import mobileNav from "./utiles/mobile-nav";
+import darkmode from "./utiles/darkmode";
 
 mobileNav();
+darkmode();
