@@ -1,5 +1,6 @@
 :root {
   --clr-dark: #070a13;
+  /* --clr-dark: black; */
   --clr-light: #f5f7f8;
   --clr-rose: #4ba3c3;
   --clr-slate400: #94a3b8;
@@ -69,4 +70,18 @@ a {
 }
 strong {
   color: var(--clr-indigo);
+}
+
+/* scroll bar */
+body::-webkit-scrollbar {
+  width: 8px;
+}
+
+body::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: var(--clr-rose);
+  outline: 1px solid var(--clr-rose);
 }
