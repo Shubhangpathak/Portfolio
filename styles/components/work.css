@@ -231,26 +231,26 @@
 /* 2xl */
 @media (min-width: 1536px) {
   .work__title {
-    font-size: var(--size-7xl);
+    font-size: var(--size-5xl);
   }
 
   .work__title {
-    font-size: var(--size-6xl);
+    font-size: var(--size-4xl);
   }
 
   .work__description {
-    font-size: var(--size-3xl);
-  }
-  .work__project-description1 {
-    font-size: var(--size-3xl);
-  }
-  .work__project-description2 {
-    font-size: var(--size-3xl);
-  }
-  .work__project-btn {
     font-size: var(--size-2xl);
   }
+  .work__project-description1 {
+    font-size: var(--size-2xl);
+  }
+  .work__project-description2 {
+    font-size: var(--size-2xl);
+  }
+  .work__project-btn {
+    font-size: var(--size-xl);
+  }
   .sub-title {
-    font-size: var(--size-4xl);
+    font-size: var(--size-3xl);
   }
 }
